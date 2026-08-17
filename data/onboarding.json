@@ -1,0 +1,19 @@
+{
+    "github": {
+        "answer": "GitHub access is requested through the IT access portal.",
+        "department": "IT",
+        "action": "github_access"
+    },
+
+    "vpn": {
+        "answer": "Install the company VPN client and sign in using your company credentials.",
+        "department": "IT",
+        "action": "vpn_access"
+    },
+
+    "benefits": {
+        "answer": "Benefits information is available in the HR employee portal.",
+        "department": "HR",
+        "action": "information_only"
+    }
+}
